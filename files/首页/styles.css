@@ -267,3 +267,13 @@
   width:55px;
   white-space:nowrap;
 }
+#u9 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:322px;
+  width:360px;
+  height:132px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
