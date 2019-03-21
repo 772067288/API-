@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:394px;
-  height:402px;
+  height:442px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -36,7 +36,7 @@
   left:1222px;
   top:41px;
   width:394px;
-  height:402px;
+  height:442px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -384,8 +384,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
-  height:40px;
+  width:63px;
+  height:32px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -398,10 +398,10 @@
 #u1834 {
   border-width:0px;
   position:absolute;
-  left:189px;
-  top:142px;
-  width:104px;
-  height:40px;
+  left:212px;
+  top:145px;
+  width:63px;
+  height:32px;
   font-size:28px;
 }
 #u1834_text {
@@ -409,7 +409,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
+  width:63px;
   white-space:nowrap;
 }
 #u1835_img {
@@ -423,7 +423,7 @@
 #u1835 {
   border-width:0px;
   position:absolute;
-  left:162px;
+  left:185px;
   top:149px;
   width:18px;
   height:25px;
@@ -1140,7 +1140,7 @@
 #u1859 {
   border-width:0px;
   position:absolute;
-  left:162px;
+  left:173px;
   top:184px;
   width:113px;
   height:20px;
@@ -1492,8 +1492,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
-  height:40px;
+  width:63px;
+  height:32px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1506,10 +1506,10 @@
 #u1871 {
   border-width:0px;
   position:absolute;
-  left:589px;
-  top:142px;
-  width:104px;
-  height:40px;
+  left:612px;
+  top:146px;
+  width:63px;
+  height:32px;
   font-size:28px;
 }
 #u1871_text {
@@ -1517,7 +1517,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
+  width:63px;
   white-space:nowrap;
 }
 #u1872_img {
@@ -1531,7 +1531,7 @@
 #u1872 {
   border-width:0px;
   position:absolute;
-  left:562px;
+  left:585px;
   top:149px;
   width:18px;
   height:25px;
@@ -1950,7 +1950,7 @@
 #u1886 {
   border-width:0px;
   position:absolute;
-  left:562px;
+  left:573px;
   top:184px;
   width:113px;
   height:20px;
