@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1648_img {
+#u1647_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,12 +20,37 @@
   width:375px;
   height:672px;
 }
-#u1648 {
+#u1647 {
   border-width:0px;
   position:absolute;
   left:45px;
   top:45px;
   width:375px;
+  height:672px;
+}
+#u1647_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1648_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2px;
+  height:673px;
+}
+#u1648 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:45px;
+  width:1px;
   height:672px;
 }
 #u1648_text {
@@ -48,7 +73,7 @@
 #u1649 {
   border-width:0px;
   position:absolute;
-  left:45px;
+  left:419px;
   top:45px;
   width:1px;
   height:672px;
@@ -67,16 +92,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:2px;
-  height:673px;
+  width:376px;
+  height:2px;
 }
 #u1650 {
   border-width:0px;
   position:absolute;
-  left:419px;
-  top:45px;
-  width:1px;
-  height:672px;
+  left:45px;
+  top:716px;
+  width:375px;
+  height:1px;
 }
 #u1650_text {
   border-width:0px;
@@ -99,7 +124,7 @@
   border-width:0px;
   position:absolute;
   left:45px;
-  top:716px;
+  top:44px;
   width:375px;
   height:1px;
 }
@@ -112,32 +137,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1652_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:376px;
-  height:2px;
-}
-#u1652 {
-  border-width:0px;
-  position:absolute;
-  left:45px;
-  top:44px;
-  width:375px;
-  height:1px;
-}
-#u1652_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u1653_div {
+#u1652_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -155,7 +155,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1653 {
+#u1652 {
   border-width:0px;
   position:absolute;
   left:438px;
@@ -166,7 +166,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1653_text {
+#u1652_text {
   border-width:0px;
   position:absolute;
   left:0px;
